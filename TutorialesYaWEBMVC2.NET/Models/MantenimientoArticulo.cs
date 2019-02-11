@@ -10,9 +10,6 @@ namespace TutorialesYaWEBMVC2.NET.Models
 {
     public class MantenimientoArticulo
     {
-
-        //PROBANDO CAMBIOS EN EL GIT YOE CARDENAS
-
         private SqlConnection con;
 
         private void Conectar()
